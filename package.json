@@ -1,0 +1,15 @@
+{
+  "name": "matrix_node_cmd",
+  "version": "1.0.0",
+  "description": "Demo node cmd app for matrix",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "huyphan@kbsec.com.vn",
+  "license": "ISC",
+  "dependencies": {
+    "cli-color": "^2.0.3",
+    "matrix-js-sdk": "^26.2.0"
+  }
+}
